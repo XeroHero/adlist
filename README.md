@@ -1,5 +1,7 @@
 # AdList for PiHole Ad Blocking System
 
+NB: Importing all these ad-lists will occupy approx 2.4GB of disk space on your EC2 VM/Raspberry Pi. Please ensure you provision enough space for the operation.
+
 Split into 24MB chunks, to ease uploading to GitHub. Enjoy ad-free browsing experience :) 
 
 Credits to the orinal poster of the block list
